@@ -326,7 +326,6 @@ docker-compose down -v --rmi all
 
 **Jeremy Tierra**  
 Desarrollador Full Stack  
-📧 Email: jeremy.tierra@example.com  
 🔗 LinkedIn: [Jeremy Tierra](https://linkedin.com/in/jeremy-tierra)
 
 ---
